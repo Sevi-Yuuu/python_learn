@@ -1,0 +1,1 @@
+__encoding = 'utf-8'
